@@ -6,7 +6,7 @@ A modern entertainment streaming platform user interface designed to provide use
 
 This project focuses on creating a responsive and attractive web interface with a dark futuristic theme, interactive navigation, content discovery sections, and user-focused layouts.
 
-![Home Screen](home-page.png)
+![Home Screen](home_page.png)
 
 ---
 
@@ -60,7 +60,7 @@ It contains:
 
 ### Home Page Screenshot
 
-![Home Screen](home-page.png)
+![Home Screen](home_page.png)
 
 
 ---
