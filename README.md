@@ -253,7 +253,7 @@ The design, source code, and UI implementation are maintained privately.
 
 # 👨‍💻 Developed By
 
-Private Frontend UI Project
+ Frontend UI Built ❤️ by <a href="https://github.com/IleeshaUdari"><strong>M.G.Ileesha Udari Sasmitha</strong></a>
 
 Entertainment Platform Web Interface
 
